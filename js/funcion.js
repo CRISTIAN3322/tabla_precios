@@ -8,7 +8,7 @@ function doSearch() {
     // Recorremos todas las filas con contenido de la tabla
 
     for (let i = 1; i < tableReg.rows.length; i++) {
-        // Si el td tiene la clase "noSearch" no se busca en su cntenido
+        // Si el td tiene la clase "noSearch" no se busca en su contenido
 
         if (tableReg.rows[i].classList.contains("noSearch")) {
             continue;
