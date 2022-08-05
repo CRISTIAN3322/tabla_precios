@@ -452,7 +452,7 @@ template {
     background: #000;
     color: aliceblue;
     font-size: bold;
-    height: 150px;
+    height: 200px;
     position: fixed;
     width: 100%;
     top: 0;
@@ -460,7 +460,7 @@ template {
 }
 
 .contenedor-centrado {
-    padding-top: 150px;
+    padding-top: 200px;
     max-width: 90%;
     width: var(--tamaño);
     margin: 20px auto;
@@ -515,5 +515,21 @@ td {
     }
     table thead {
         display: none;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .header{
+        height: 200px;
+        font-size: 16px;
+    }
+
+    .texto-centrado{
+        width: 100%;
+        margin: 0;
+    }
+
+    .contenedor-centrado{
+        margin-top: 50px;
     }
 }
