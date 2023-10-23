@@ -519,17 +519,15 @@ td {
 }
 
 @media screen and (max-width: 360px) {
-    .header{
+    .header {
         height: 200px;
         font-size: 16px;
     }
-
-    .texto-centrado{
+    .texto-centrado {
         width: 100%;
         margin: 0;
     }
-
-    .contenedor-centrado{
+    .contenedor-centrado {
         margin-top: 50px;
     }
 }
