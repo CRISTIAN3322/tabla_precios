@@ -3,10 +3,10 @@
 ## No Base de Datos
 
 # SERVIDOR VERSEL
-tabla-precios-sura.vercel.app
+https://tabla-precios.vercel.app
 
 # REPOSITORIO GITHUB
-https://github.com/CRISTIAN3322/tabla_precios_sura.git
+https://github.com/CRISTIAN3322/tabla_precios.git
 
 
 
