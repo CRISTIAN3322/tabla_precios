@@ -1,48 +1,48 @@
 [
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-40.PNG",
+        "Imagen": "./img_catalogo/alumina/papel-alumina-40.PNG",
         "Codigo": "JAL0002",
         "CodigoBarras": "7702110627445",
         "Descripcion": "ALUM. ALUMINA 40 MTS CJ X 30 - 1000062",
         "Precio": " $ 12.237 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-8.PNG",
+        "Imagen": "./img_catalogo/alumina/papel-alumina-8.PNG",
         "Codigo": "JAL0003",
         "CodigoBarras": "7702110440051",
         "Descripcion": "ALUMINIO ALUMINA X 8 MTS CJ X 30 - 1000061",
         "Precio": " $ 2.899 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumiflex-7.PNG",
+        "Imagen": "./img_catalogo/alumina/papel-alumiflex-7.PNG",
         "Codigo": "JAL0006",
         "CodigoBarras": "7703207400248",
         "Descripcion": "ALUMINIO ALUMIFLEX X 7 MTS  CJ X 24 - 1000037",
         "Precio": " $ 2.830 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-13.PNG",
+        "Imagen": "./img_catalogo/alumina/papel-alumina-13.PNG",
         "Codigo": "JAL0011",
         "CodigoBarras": "770211044006",
         "Descripcion": "PAPEL ALUMINIO 13 MTS X 30 - 1000058",
         "Precio": " $ 4.368 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-13.PNG",
+        "Imagen": "./img_catalogo/alumina/papel-alumina-13.PNG",
         "Codigo": "JAL0012",
         "CodigoBarras": "7702110440242",
         "Descripcion": "PAPEL ALUMINIO ALUMINA 16 MTS X 30 UND - 1000059",
         "Precio": " $ 5.874 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/toning/cereal-aritos-1000.png",
+        "Imagen": "./img_catalogo/toning/cereal-aritos-1000.png",
         "Codigo": "JAT0001",
         "CodigoBarras": "7702622724137",
         "Descripcion": "ARITOS SABOR FRUTAS X 1000 gr CJ X 8 und",
         "Precio": " $ 15.740 "
     },
     {
-        "Imagen": "../tabla_precios/assets/img_catalogo/toning/avena-hojuelas-200.png",
+        "Imagen": "./img_catalogo/toning/avena-hojuelas-200.png",
         "Codigo": "JAT0002",
         "CodigoBarras": "7702622525093",
         "Descripcion": "AVENA HOJUELA TONING X 200 gr PC X 48 und",
