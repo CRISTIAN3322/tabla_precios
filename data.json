@@ -1,0 +1,3341 @@
+[
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-40.PNG",
+        "Codigo": "JAL0002",
+        "CodigoBarras": "7702110627445",
+        "Descripcion": "ALUM. ALUMINA 40 MTS CJ X 30 - 1000062",
+        "Precio": " $ 12.237 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-8.PNG",
+        "Codigo": "JAL0003",
+        "CodigoBarras": "7702110440051",
+        "Descripcion": "ALUMINIO ALUMINA X 8 MTS CJ X 30 - 1000061",
+        "Precio": " $ 2.899 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumiflex-7.PNG",
+        "Codigo": "JAL0006",
+        "CodigoBarras": "7703207400248",
+        "Descripcion": "ALUMINIO ALUMIFLEX X 7 MTS  CJ X 24 - 1000037",
+        "Precio": " $ 2.830 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-13.PNG",
+        "Codigo": "JAL0011",
+        "CodigoBarras": "770211044006",
+        "Descripcion": "PAPEL ALUMINIO 13 MTS X 30 - 1000058",
+        "Precio": " $ 4.368 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/alumina/papel-alumina-13.PNG",
+        "Codigo": "JAL0012",
+        "CodigoBarras": "7702110440242",
+        "Descripcion": "PAPEL ALUMINIO ALUMINA 16 MTS X 30 UND - 1000059",
+        "Precio": " $ 5.874 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/toning/cereal-aritos-1000.png",
+        "Codigo": "JAT0001",
+        "CodigoBarras": "7702622724137",
+        "Descripcion": "ARITOS SABOR FRUTAS X 1000 gr CJ X 8 und",
+        "Precio": " $ 15.740 "
+    },
+    {
+        "Imagen": "../tabla_precios/assets/img_catalogo/toning/avena-hojuelas-200.png",
+        "Codigo": "JAT0002",
+        "CodigoBarras": "7702622525093",
+        "Descripcion": "AVENA HOJUELA TONING X 200 gr PC X 48 und",
+        "Precio": " $ 1.625 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0003",
+        "CodigoBarras": "7702622527103",
+        "Descripcion": "AVENA HOJUELA TONING 400 LLEVE 500 gr PC X 24 und",
+        "Precio": " $ 3.765 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0004",
+        "CodigoBarras": "7702622529145",
+        "Descripcion": "AVENA HOJUELAS TONING X 1000 gr PC X 12 und",
+        "Precio": " $ 6.434 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0005",
+        "CodigoBarras": "7702622522139",
+        "Descripcion": "AVENA INST FRESA TONING X 180 gr CJ X 24 und",
+        "Precio": " $ 2.894 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0006",
+        "CodigoBarras": "7702622522016",
+        "Descripcion": "AVENA INST MORA TONING X 180 gr CJ X 24 und",
+        "Precio": " $ 2.894 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0007",
+        "CodigoBarras": "7702622522023",
+        "Descripcion": "AVENA INST VAINILLA TONING X 180 gr CJ X 24 und",
+        "Precio": " $ 2.894 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0008",
+        "CodigoBarras": "7702622528131",
+        "Descripcion": "AVENA MOLIDA TONING X 200 gr PC X 48 und",
+        "Precio": " $ 1.625 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0009",
+        "CodigoBarras": "7702622724045",
+        "Descripcion": "CHOCO CHOC X 1000 gr CJ X 12 und",
+        "Precio": " $ 16.104 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0010",
+        "CodigoBarras": "7702622423146",
+        "Descripcion": "COLADA 7 GRANOS FRESA X 200 GR PC X 48 und DISPLAY X 12 und",
+        "Precio": " $ 3.519 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0011",
+        "CodigoBarras": "7702622423139",
+        "Descripcion": "COLADA 7 GRANOS NATURAL X 200 GR PC X 48 und DISPLAY X 12 und",
+        "Precio": " $ 3.519 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0012",
+        "CodigoBarras": "7702622423153",
+        "Descripcion": "COLADA 7 GRANOS VAINILLA X 200 GR PC X 48 und DISPLAY X 12 und",
+        "Precio": " $ 3.519 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0013",
+        "CodigoBarras": "7702622422132",
+        "Descripcion": "FECULA DE PLATANO TONING 200 gr PC X 48 und",
+        "Precio": " $ 3.181 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0014",
+        "CodigoBarras": "7702622725011",
+        "Descripcion": "FORZA ALMENDRAS ORIGINAL POLVO X 200 gr CJ X 12 und",
+        "Precio": " $ 15.032 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0015",
+        "CodigoBarras": "7702622423559",
+        "Descripcion": "FORZA ALMENDRAS VAINILLA POLVO X 200 gr CJ X 12 und",
+        "Precio": " $ 15.032 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0016",
+        "CodigoBarras": "7702622627070",
+        "Descripcion": "FORZA SOYA MUJER POLVO X 200 gr CJ X 12 und",
+        "Precio": " $ 15.535 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0018",
+        "CodigoBarras": "7702622585103",
+        "Descripcion": "FECULA DE MAIZ TONING X 200 GR PC X 48",
+        "Precio": " $ 3.196 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0019",
+        "CodigoBarras": "7702622226143",
+        "Descripcion": "GRANOLA TONING 500 gr CJ X 24 und",
+        "Precio": " $ 7.313 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0020",
+        "CodigoBarras": "7702622425102",
+        "Descripcion": "GUSTARINA NATURAL X 200 gr PC X 48 und",
+        "Precio": " $ 3.232 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0021",
+        "CodigoBarras": "7702622423191",
+        "Descripcion": "GUSTARINA VAINILLA X 200 gr PC X 48 und",
+        "Precio": " $ 3.232 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0022",
+        "CodigoBarras": "7702622724151",
+        "Descripcion": "HOJUELAS AZUCARADAS X 1000 gr CJ X 12 und",
+        "Precio": " $ 15.740 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0023",
+        "CodigoBarras": "7702622629159",
+        "Descripcion": "LECHE SOYA NATURAL 750 gr PC X 12 und",
+        "Precio": " $ 22.612 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0024",
+        "CodigoBarras": "7702622628060",
+        "Descripcion": "LECHE SOYA TONING 40 Y TANTOS X 250 gr PC X 48 und",
+        "Precio": " $ 8.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0025",
+        "CodigoBarras": "7702622624116",
+        "Descripcion": "LECHE SOYA TONING MIEL X 250 gr PC X 48 und",
+        "Precio": " $ 8.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0026",
+        "CodigoBarras": "7702622624109",
+        "Descripcion": "LECHE SOYA TONING NATURAL X 250 gr PC X 48 und",
+        "Precio": " $ 8.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0027",
+        "CodigoBarras": "7702622624154",
+        "Descripcion": "LECHE SOYA TONING VAINILLA X 250 gr PC X 48 und",
+        "Precio": " $ 8.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0028",
+        "CodigoBarras": "7702622628008",
+        "Descripcion": "LECHE SOYA VAINILLA X 750 gr PC X 12 und",
+        "Precio": " $ 22.612 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0033",
+        "CodigoBarras": "7702622329127",
+        "Descripcion": "SALVADO NATURAL X 450 gr PC X 24 und",
+        "Precio": " $ 3.834 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0034",
+        "CodigoBarras": "7702622624031",
+        "Descripcion": "PROTEINA X 250 gr PC X 24 und",
+        "Precio": " $ 11.366 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0037",
+        "CodigoBarras": "7702622624093",
+        "Descripcion": "PROTEINA X 500 gr PC X 12 und",
+        "Precio": " $ 21.673 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0039",
+        "CodigoBarras": "7702622104489",
+        "Descripcion": "AVENA HOJUELAS VAINILLA ZANARA TARRO X 45 gr CJ X 48 und",
+        "Precio": " $ 2.600 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0040",
+        "CodigoBarras": "7702622550064",
+        "Descripcion": "AVENA HOJUELAS MIEL ZANARA TARRO X 45 gr CJ X 48 und",
+        "Precio": " $ 2.600 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0041",
+        "CodigoBarras": "7702622884381",
+        "Descripcion": "AVENA HOJUELAS CANELA ZANARA TARRO X 45 gr CJ X 48 und",
+        "Precio": " $ 2.600 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0042",
+        "CodigoBarras": "7702622678263",
+        "Descripcion": "MEZCLA PARA PANCAKES DE AVENA X 280 GR CJ X 24",
+        "Precio": " $ 4.421 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0043",
+        "CodigoBarras": "7702622755582",
+        "Descripcion": "MEZCLA PARA PANCAKES DE AVENA SIN GLUTEN X 500 GR CJ X 12",
+        "Precio": " $ 8.188 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0044",
+        "CodigoBarras": "7702622229151",
+        "Descripcion": "MULTIGRANOLA X 1000 gr PC X 12 und",
+        "Precio": " $ 15.535 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0047",
+        "CodigoBarras": "7702622012302",
+        "Descripcion": "FORZA ALMENDRAS LIQUIDA ORIGINAL X 946 ml CJ X 12 und",
+        "Precio": " $ 10.840 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0048",
+        "CodigoBarras": "7702622012319",
+        "Descripcion": "FORZA ALMENDRAS LIQUIDA VAINILLA X 946 ml CJ X 12 und",
+        "Precio": " $ 10.840 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0053",
+        "CodigoBarras": "7702622429186",
+        "Descripcion": "COLADA 7 CEREALES VAINILLA X 1000 gr PC X 12 und",
+        "Precio": " $ 15.131 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0054",
+        "CodigoBarras": "7702622429124",
+        "Descripcion": "COLADA 7 CEREALES NATURAL X 1000 gr PC X 12 und",
+        "Precio": " $ 15.131 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0057",
+        "CodigoBarras": "7702622529183",
+        "Descripcion": "GRANOLA ECONOPACK X 1000 gr CJ X 12 und",
+        "Precio": " $ 12.303 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0058",
+        "CodigoBarras": "7702622100214",
+        "Descripcion": "CORN FLAKES X 1000 gr CJ X 12 und",
+        "Precio": " $ 15.740 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0061",
+        "CodigoBarras": "7702622955128",
+        "Descripcion": "FORZA ALMENDRA CERO X 946 ml CJ X 12 und",
+        "Precio": " $ 11.388 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0106",
+        "CodigoBarras": "7702622360779",
+        "Descripcion": "FORZA LIQUIDA DUOPACK SIN AZUCAR 1892 ml CJ X 6 und",
+        "Precio": " $ 19.346 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0109",
+        "CodigoBarras": "7702622423405",
+        "Descripcion": "AVENA HOJUELAS TONING X 2000 gr CJ X 6 und",
+        "Precio": " $ 14.968 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0110",
+        "CodigoBarras": "7702622767585",
+        "Descripcion": "CHOCOGRANOLA X 900 gr CJ X 12 und",
+        "Precio": " $ 15.678 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0113",
+        "CodigoBarras": "7702622227355",
+        "Descripcion": "FORZA ORIGINAL ECONOPACK POLVO X 400 gr CJ X 12 und",
+        "Precio": " $ 24.526 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0114",
+        "CodigoBarras": "7702622225283",
+        "Descripcion": "FORZA VAINILLA ECONOPACK POLVO X 400 gr CJ X 12 und",
+        "Precio": " $ 24.526 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0115",
+        "CodigoBarras": "7702622521064",
+        "Descripcion": "AVENA TONING X 1000 EXTRA CONTENIDO PACA X 12",
+        "Precio": " $ 7.190 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0120",
+        "CodigoBarras": "7702622989963",
+        "Descripcion": "FORZA ALMENDRA LIQUIDA ORIGINAL DUOPACK",
+        "Precio": " $ 18.430 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0121",
+        "CodigoBarras": "7702622312730",
+        "Descripcion": "FORZA ALMENDRAS LIQUIDA VAINILLA DUOPACK",
+        "Precio": " $ 18.430 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0123",
+        "CodigoBarras": "7702622160133",
+        "Descripcion": "AVENA HOJUELAS SIN GLUTEN X 1000 gr  CJ X 12 und",
+        "Precio": " $ 10.377 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAT0124",
+        "CodigoBarras": "7702622684172",
+        "Descripcion": "AVENA MOLIDA SIN GLUTEN X 400 GR CJ X 16",
+        "Precio": " $ 6.901 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0005",
+        "CodigoBarras": "7709990840643",
+        "Descripcion": "PAÑITOS HUMEDOS FRESQUITOS  X 10 UN PQ X 48 UND *",
+        "Precio": " $ 793 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0006",
+        "CodigoBarras": "7709990968569",
+        "Descripcion": "PAÑITOS  FRESQUITOS HUMEDOS  PQ X 102 UND *",
+        "Precio": " $ 4.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0010",
+        "CodigoBarras": "7709990968538",
+        "Descripcion": "PAÑITOS PEPINO DESMAQUILLADORES X 10 UN PC X 48 DERMODIVA",
+        "Precio": " $ 762 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0011",
+        "CodigoBarras": "7709990968590",
+        "Descripcion": "PAÑITOS DESMAQUILLADORES COLAGENO X 10 UN PC X 48",
+        "Precio": " $ 763 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0015",
+        "CodigoBarras": "7709888659173",
+        "Descripcion": "PAÑITOS HUMEDOS 105 UND FRESKITICOS CJ X 24 UND *",
+        "Precio": " $ 3.850 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0019",
+        "CodigoBarras": "7709808402230",
+        "Descripcion": "ENJUAGUE BUCAL ACTIVMINT YERBABUENA X 300 ML CJ X 15",
+        "Precio": " $ 4.789 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JAW0020",
+        "CodigoBarras": "7708977668294",
+        "Descripcion": "ENJUAGUE BUCAL ACTIVMINT MENTA X 300 ML CJ X 15",
+        "Precio": " $ 4.789 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JBL0006",
+        "CodigoBarras": "7707205157142",
+        "Descripcion": "ITALCAN 30KG",
+        "Precio": " $ 104.768 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JBL0007",
+        "CodigoBarras": "7707205150358",
+        "Descripcion": "ITALCAN 10KG",
+        "Precio": " $ 32.970 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCA0001",
+        "CodigoBarras": "7707260609266",
+        "Descripcion": "MASMELOS SURTIDOS DE AZUCAR CJ X 40 UND",
+        "Precio": " $ 2.607 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCC0002",
+        "CodigoBarras": "7707255635621",
+        "Descripcion": "ACEITE DE OLIVA  X 500 ML CJ X 30",
+        "Precio": " $ 17.414 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCC0004",
+        "CodigoBarras": "7707255630053",
+        "Descripcion": "ACEITE DE OLIVA IBAÑEZ X 200 GR CJ X 50",
+        "Precio": " $ 7.983 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCC0015",
+        "CodigoBarras": "7707255634983",
+        "Descripcion": "ACEITE CANOLIVA LITRO VIRGEN EXTRA CJ X 20 UND",
+        "Precio": " $ 23.901 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCC0016",
+        "CodigoBarras": "7707255633061",
+        "Descripcion": "VINO IBAÑEZ MEDITERRANEO TINTO",
+        "Precio": " $ 15.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCD0001",
+        "CodigoBarras": "7709674476595-1",
+        "Descripcion": "GALLETA CAMPANITAS DE NAVIDAD AZUL X 160GR CJ X 24",
+        "Precio": " $ 3.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCD0002",
+        "CodigoBarras": "7709674496595-2",
+        "Descripcion": "GALLETA CAMPANITAS DE NAVIDAD AMARILLA X 160GR CJ X 24",
+        "Precio": " $ 3.691 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0001",
+        "CodigoBarras": "7501006559026",
+        "Descripcion": "PALOMITAS EXTRA MANTEQUILLA X 80 GR DP X 16",
+        "Precio": " $ 4.286 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0002",
+        "CodigoBarras": "7501006559002",
+        "Descripcion": "PALOMITAS NATURAL X 80 GR DP X 16 UND",
+        "Precio": " $ 4.286 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0003",
+        "CodigoBarras": "07615022230",
+        "Descripcion": "PALOMITAS QUESO CHEDAR X 96 GR DP X 15",
+        "Precio": " $ 6.351 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0004",
+        "CodigoBarras": "076150230383",
+        "Descripcion": "PALOMITAS CARAMELO DP X 11",
+        "Precio": " $ 9.600 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0006",
+        "CodigoBarras": "7501006559019",
+        "Descripcion": "PALOMITAS MANTEQUILLA X 80 GR DP X 16",
+        "Precio": " $ 4.286 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0007",
+        "CodigoBarras": "722776000175",
+        "Descripcion": "SPLENDA X 25 GR CJ X 24 UN",
+        "Precio": " $ 6.136 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0008",
+        "CodigoBarras": "722776020012",
+        "Descripcion": "SPLENDA X 50 SOBRES CJ X 12 DISPLAY",
+        "Precio": " $ 10.727 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0009",
+        "CodigoBarras": "7591039505190",
+        "Descripcion": "FLIPS CHOCOLATE TO-GO X 28GR DISPLAY X 12 CJ X 6",
+        "Precio": " $ 17.063 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0010",
+        "CodigoBarras": "7591039505992",
+        "Descripcion": "FLIPS DULCE DE LECHE TO-GO X 28GR DISPLAY X 12 CJ X 6",
+        "Precio": " $ 17.063 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0011",
+        "CodigoBarras": "7707200710342",
+        "Descripcion": "FLIPS CHOCOLATE X 120GR CJ X 14",
+        "Precio": " $ 3.856 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0012",
+        "CodigoBarras": "7707200710359",
+        "Descripcion": "FLIPS DULCE DE LECHE X 120GR CJ X 14",
+        "Precio": " $ 3.856 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0013",
+        "CodigoBarras": "7702807414112",
+        "Descripcion": "FLIPS CHOCOLATE X 400GR CJ X 14",
+        "Precio": " $ 12.377 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCG0014",
+        "CodigoBarras": "7702807395596",
+        "Descripcion": "FLIPS DULCE DE LECHE X 400GR CJ X 14",
+        "Precio": " $ 12.377 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0001",
+        "CodigoBarras": "7702117008193",
+        "Descripcion": "ALMENDRA FRANCESA X 135 GR CJ X 36",
+        "Precio": " $ 6.043 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0002",
+        "CodigoBarras": "7702117008179",
+        "Descripcion": "ALMENDRA FRANCESA X 250 GR CJ X 50",
+        "Precio": " $ 10.656 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0003",
+        "CodigoBarras": "7702117008216",
+        "Descripcion": "ALMENDRA FRANCESA X 50 GRDP12",
+        "Precio": " $ 2.397 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0004",
+        "CodigoBarras": "7702117010738",
+        "Descripcion": "CARAMELO ANIS X 80 GR CJ X 48",
+        "Precio": " $ 2.016 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0005",
+        "CodigoBarras": "7702117013067",
+        "Descripcion": "CARAMELO DE COCO X 20 UND CJ X 60",
+        "Precio": " $ 2.583 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0006",
+        "CodigoBarras": "7702117012688",
+        "Descripcion": "TABLETA RELLENA BL X 12 CJ X 12",
+        "Precio": " $ 10.786 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0007",
+        "CodigoBarras": "7702117012206",
+        "Descripcion": "CARAMELO DE LECHE X 20 UND CJ X 60",
+        "Precio": " $ 2.513 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0008",
+        "CodigoBarras": "7702117007271",
+        "Descripcion": "CARAMELO LACTYS DURAZNO X 105 GR CJ X 48",
+        "Precio": " $ 3.176 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0009",
+        "CodigoBarras": "7702117007219",
+        "Descripcion": "CARAMELO LACTYS FRESA X 105 GR CJ X 48",
+        "Precio": " $ 3.176 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0010",
+        "CodigoBarras": "7700117018581",
+        "Descripcion": "PIKIS MONEDAS CJ X 40",
+        "Precio": " $ 9.420 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0011",
+        "CodigoBarras": "7702117161041",
+        "Descripcion": "CARAMELO SURTIDO X 185 GR CJ X 40",
+        "Precio": " $ 5.555 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0012",
+        "CodigoBarras": "7702117161102",
+        "Descripcion": "CARAMELO SURTIDO X 80 GR CJ X 60",
+        "Precio": " $ 2.487 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0013",
+        "CodigoBarras": "7702117008384",
+        "Descripcion": "CHOCO BABY X 180 GR CJ X 24",
+        "Precio": " $ 8.945 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0014",
+        "CodigoBarras": "7702117008087",
+        "Descripcion": "CHOCO BABY X 90 GR CJ X 24",
+        "Precio": " $ 4.577 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0015",
+        "CodigoBarras": "7702117018796",
+        "Descripcion": "CHOCOLATINA RELLENA PEQUEÑA X 6 CJ X 20",
+        "Precio": " $ 13.897 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0017",
+        "CodigoBarras": "7702117017294",
+        "Descripcion": "CHOCOLATINA RELLENA GRANDE X 6 CJ X 14",
+        "Precio": " $ 47.444 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0018",
+        "CodigoBarras": "7702117101061",
+        "Descripcion": "CHUPETA BLANDA DE FRUTAS X 144 GR BS X 12 CJ X 40",
+        "Precio": " $ 4.846 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0019",
+        "CodigoBarras": "7702117100743",
+        "Descripcion": "CHUPETA BLANDA DE LECHE 144 GR CJ X 40 UND",
+        "Precio": " $ 5.254 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0020",
+        "CodigoBarras": "7702117010707",
+        "Descripcion": "CHUPETA CHOCOLATE X 70 GR CAJA X 60 UND",
+        "Precio": " $ 8.754 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0021",
+        "CodigoBarras": "7702117011193",
+        "Descripcion": "ESTUCHE MENSAJES CJ X 26",
+        "Precio": " $ 8.053 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0022",
+        "CodigoBarras": "7702117012589",
+        "Descripcion": "CARAMELO CANDY MIX CJ X 6",
+        "Precio": " $ 23.318 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0023",
+        "CodigoBarras": "7702117012831",
+        "Descripcion": "ESTUCHE MUÑEQUITAS X 70 GR",
+        "Precio": " $ 6.972 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0024",
+        "CodigoBarras": "7702117003266",
+        "Descripcion": "PIKIS HUEVOS NO ME OLVIDES X 2 CJ X 70",
+        "Precio": " $ 5.054 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0025",
+        "CodigoBarras": "7702117005673",
+        "Descripcion": "ESTUCHE VARIEDAD X 90 GR",
+        "Precio": " $ 11.844 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0026",
+        "CodigoBarras": "7702117012183",
+        "Descripcion": "CARAMELO DE LECHE X 100 UND CJ X 12",
+        "Precio": " $ 11.522 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0027",
+        "CodigoBarras": "772117013531",
+        "Descripcion": "CARAMELO DE COCO X 100 UND CJ X 12",
+        "Precio": " $ 11.520 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0028",
+        "CodigoBarras": "7702117006076",
+        "Descripcion": "MASMELOS BLANCO X 120 G CJ X 30",
+        "Precio": " $ 3.626 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0029",
+        "CodigoBarras": "7702117006809",
+        "Descripcion": "GOMAS MEDIA LUNA X 250 GR CJ X 24 UND",
+        "Precio": " $ 8.701 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0030",
+        "CodigoBarras": "7702117006816",
+        "Descripcion": "GOMAS MEDIA LUNA X 40 GR  CJX52",
+        "Precio": " $ 1.488 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0031",
+        "CodigoBarras": "7702117006656",
+        "Descripcion": "GOMAS CONITO BLANDY X 170 GR  CJ X 60",
+        "Precio": " $ 4.835 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0032",
+        "CodigoBarras": "7702117160914",
+        "Descripcion": "GOMAS MORITAS X 200 GR CJ X 50",
+        "Precio": " $ 6.234 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0033",
+        "CodigoBarras": "7702117006717",
+        "Descripcion": "GOMAS SURTIDAS X 125 GR CJ X 80",
+        "Precio": " $ 3.621 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0034",
+        "CodigoBarras": "7702117012053",
+        "Descripcion": "GALLETA ANIMADAS WIN PQ X 12 CJ X 20",
+        "Precio": " $ 9.513 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0035",
+        "CodigoBarras": "7702117007769",
+        "Descripcion": "GRAGEA X 125 GR CJ X 110",
+        "Precio": " $ 2.619 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0036",
+        "CodigoBarras": "7702117002641",
+        "Descripcion": "HIPER LONCH FRESA X 156 GR CJ X 24",
+        "Precio": " $ 5.194 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0037",
+        "CodigoBarras": "7702117001941",
+        "Descripcion": "HIPER WAFER  AREQUIPE 208 GR X 28",
+        "Precio": " $ 5.453 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0038",
+        "CodigoBarras": "7702117012527",
+        "Descripcion": "MASMELO X 80 GR CJ X 44",
+        "Precio": " $ 2.486 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0039",
+        "CodigoBarras": "7702117006939",
+        "Descripcion": "MASMELOS X 50 GR CJ X 70",
+        "Precio": " $ 1.767 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0040",
+        "CodigoBarras": "7702117004195",
+        "Descripcion": "MERCI CORAZON X 160 GR CJ X 9",
+        "Precio": " $ 24.445 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0041",
+        "CodigoBarras": "7702117004140",
+        "Descripcion": "MERCI FLOR X 112 GR CJ X 15",
+        "Precio": " $ 16.883 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0042",
+        "CodigoBarras": "7702117003358",
+        "Descripcion": "MERCI RELLENO X 6 UND EMB CJ X 12",
+        "Precio": " $ 12.945 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0044",
+        "CodigoBarras": "7702117011148",
+        "Descripcion": "UVAS CUBIERTAS CON CHOCOLATE X 40 GR X10 CJX50",
+        "Precio": " $ 4.061 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0045",
+        "CodigoBarras": "7702117015078",
+        "Descripcion": "GOMITAS PIKIS GOMI-MASMELO CJ X 24",
+        "Precio": " $ 2.110 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0046",
+        "CodigoBarras": "7702117015160",
+        "Descripcion": "GOMITAS PIKIS OSOS EN PIJAMA CJ X 24",
+        "Precio": " $ 2.110 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0047",
+        "CodigoBarras": "7702117019205",
+        "Descripcion": "GOMITAS PIKIS ACIDULCES CJ X 24",
+        "Precio": " $ 1.539 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0048",
+        "CodigoBarras": "7702117018772",
+        "Descripcion": "GALLETAS NAVIDAD X 150 G CJ X 20",
+        "Precio": " $ 3.367 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0049",
+        "CodigoBarras": "7702117013654",
+        "Descripcion": "BOM BOM BONKISS CLASICO BS X 18 CJ X 12",
+        "Precio": " $ 12.002 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0051",
+        "CodigoBarras": "7702117009404",
+        "Descripcion": "WAFER MINITACO AREQUIPE X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0052",
+        "CodigoBarras": "7702117008841",
+        "Descripcion": "WAFER MINITACO CHOCOLATE X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0053",
+        "CodigoBarras": "7702117009398",
+        "Descripcion": "WAFER MINITACO COCO X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0054",
+        "CodigoBarras": "7702117009312",
+        "Descripcion": "WAFER MINITACO FRESA X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0055",
+        "CodigoBarras": "7702117009640",
+        "Descripcion": "WAFER MINITACO GUANABANA X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0056",
+        "CodigoBarras": "7702117009350",
+        "Descripcion": "WAFER MINITACO LIMON X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0057",
+        "CodigoBarras": "7702117012367",
+        "Descripcion": "WAFER MINITACO MORA X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0058",
+        "CodigoBarras": "7702117009374",
+        "Descripcion": "WAFER MINITACO NARANJA X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0059",
+        "CodigoBarras": "7702117009336",
+        "Descripcion": "WAFER MINITACO VAINILLA X 80 GR CJ X 24",
+        "Precio": " $ 1.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0060",
+        "CodigoBarras": "7702117008711",
+        "Descripcion": "WAFER PAQUETACO AREQUIPE X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0061",
+        "CodigoBarras": "7702117009114",
+        "Descripcion": "WAFER PAQUETACO CHOCOLATE X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0062",
+        "CodigoBarras": "7702117008704",
+        "Descripcion": "WAFER PAQUETACO COCO X 117 GR X CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0063",
+        "CodigoBarras": "7702117160068",
+        "Descripcion": "WAFER PAQUETACO FRESA X 117 CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0064",
+        "CodigoBarras": "7702117160679",
+        "Descripcion": "WAFER PAQUETACO LIMON X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0065",
+        "CodigoBarras": "7702117012374",
+        "Descripcion": "WAFER PAQUETACO MORA X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0066",
+        "CodigoBarras": "7702117160990",
+        "Descripcion": "WAFER PAQUETACO NARANJA X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0067",
+        "CodigoBarras": "7702117160259",
+        "Descripcion": "WAFER PAQUETACO VAINILLA X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0068",
+        "CodigoBarras": "7702117008452",
+        "Descripcion": "WAFER TAQUITO AREQUIPE X 240 GR CJ X 36",
+        "Precio": " $ 5.656 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0069",
+        "CodigoBarras": "7702117008438",
+        "Descripcion": "WAFER TAQUITO FRESA X 240 GR CJ X 36",
+        "Precio": " $ 5.656 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0070",
+        "CodigoBarras": "7702117003815",
+        "Descripcion": "WAFER TAQUITO NARANJA X 240 GR CJ X 36",
+        "Precio": " $ 5.656 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0071",
+        "CodigoBarras": "7702117007875",
+        "Descripcion": "WAFER TAQUITO VAINILLA X 240 GR CJ X 36",
+        "Precio": " $ 5.656 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0074",
+        "CodigoBarras": "7702117007745",
+        "Descripcion": "GRAGEA X 500 GR CJ X 30 UN",
+        "Precio": " $ 9.907 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0075",
+        "CodigoBarras": "7702117002504",
+        "Descripcion": "HIPER LONCH VAINILLA X 156 GR CJ X 24",
+        "Precio": " $ 5.194 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0076",
+        "CodigoBarras": "7702117001866",
+        "Descripcion": "HIPER WAFER FRESA X 208 GR CJ X 28",
+        "Precio": " $ 5.453 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0077",
+        "CodigoBarras": "7702117001774",
+        "Descripcion": "HIPER WAFER VAINILLA X 208 GR CJ X 28",
+        "Precio": " $ 5.453 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0080",
+        "CodigoBarras": "7702117006724",
+        "Descripcion": "MASMELO X 120 GR CJ X 30 UN",
+        "Precio": " $ 3.713 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0082",
+        "CodigoBarras": "7702117017348",
+        "Descripcion": "MERCI BOMBOM RELLENO X 2 UN",
+        "Precio": " $ 3.383 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0085",
+        "CodigoBarras": "7702117006960",
+        "Descripcion": "RISTRA MORITAS X 40 GR 10 UND",
+        "Precio": " $ 14.000 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0086",
+        "CodigoBarras": "7702117009626",
+        "Descripcion": "WAFER PAQUETACO GUANABANA  X 117 GR CJ X 48",
+        "Precio": " $ 2.750 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0087",
+        "CodigoBarras": "7702117111121",
+        "Descripcion": "ALMENDRA PIRAMIDE X 50 GR",
+        "Precio": " $ 3.789 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0088",
+        "CodigoBarras": "7702117008490",
+        "Descripcion": "BOM BOM DE LECHE CONDENSADA X 144 GR CJ X 45",
+        "Precio": " $ 3.543 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0089",
+        "CodigoBarras": "7702117006571",
+        "Descripcion": "CARAMELO BLANDO DE MENTA X 94 GR CJ X 60",
+        "Precio": " $ 2.461 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0090",
+        "CodigoBarras": "7702117002498",
+        "Descripcion": "CARAMELO MORITAS X 25 CJ X 48",
+        "Precio": " $ 2.105 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0091",
+        "CodigoBarras": "7702117005666",
+        "Descripcion": "ESTUCHE BABY OSITOS X 90 GR",
+        "Precio": " $ 12.790 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0092",
+        "CodigoBarras": "7702117004218",
+        "Descripcion": "ESTUCHE ENAMORADOS X 90 GR",
+        "Precio": " $ 11.069 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0093",
+        "CodigoBarras": "7702117005680",
+        "Descripcion": "ESTUCHE PENSAMIENTOS X 90 GR",
+        "Precio": " $ 11.069 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0094",
+        "CodigoBarras": "7702117010653",
+        "Descripcion": "GALLETA DE LECHE X 18 UN CJ X 24",
+        "Precio": " $ 7.371 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0097",
+        "CodigoBarras": "7702117003259",
+        "Descripcion": "HUEVOS NO ME OLVIDES ITALO BOLSA X 10 UND",
+        "Precio": " $ 21.531 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0104",
+        "CodigoBarras": "",
+        "Descripcion": "MINITACO SIN AZUCAR VAINILLA X 80 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0001",
+        "CodigoBarras": "7702307140221",
+        "Descripcion": "VINO DE MANZANA BURBUJEANTE CASA RHIN X 750 CJ X 12",
+        "Precio": " $ 13.612 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0002",
+        "CodigoBarras": "7702307140122",
+        "Descripcion": "VINO DE DURAZNO BURBUJEANTE CASA RHIN X 750 CJ X 12",
+        "Precio": " $ 13.628 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0003",
+        "CodigoBarras": "7702307110323",
+        "Descripcion": "VINO ESPUMOSO KATICH BLANCO X 750 CJ X 12",
+        "Precio": " $ 17.969 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0004",
+        "CodigoBarras": "7702307110422",
+        "Descripcion": "VINO ESPUMOSO KATICH ROSADO X 750 CJ X 12",
+        "Precio": " $ 18.057 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0005",
+        "CodigoBarras": "7702307130321",
+        "Descripcion": "APERITIVO VINICO MOSCATEL DE PASAS X 750 CJ X 12",
+        "Precio": " $ 14.371 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0007",
+        "CodigoBarras": "7702307620013",
+        "Descripcion": "MOSCATEL GRAN DUCADO TINTO X 1000 IPACK",
+        "Precio": " $ 12.071 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCR0008",
+        "CodigoBarras": "7702307330509",
+        "Descripcion": "CREMA DE WHISKY CASA DEL RHIN X 750 CJ X 12",
+        "Precio": " $ 37.557 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0001",
+        "CodigoBarras": "7707014902674",
+        "Descripcion": "BIG BOM BABY FRESILLA CJ X 16",
+        "Precio": " $ 7.540 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0002",
+        "CodigoBarras": "7707014902100",
+        "Descripcion": "BIG BOM XL SURTIDO CJ X 16",
+        "Precio": " $ 7.909 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0003",
+        "CodigoBarras": "7707014905132",
+        "Descripcion": "CHUPETA PINK HEARTS CJ X 20",
+        "Precio": " $ 5.235 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0004",
+        "CodigoBarras": "7707014902698",
+        "Descripcion": "BIG BOM BABY PINTALABIOS CJ X 16",
+        "Precio": " $ 7.182 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0005",
+        "CodigoBarras": "7707014902711",
+        "Descripcion": "BIG BOM BABY YOGURIN CJ X 16",
+        "Precio": " $ 7.182 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0006",
+        "CodigoBarras": "7707014902681",
+        "Descripcion": "BIG BOM BABY CARITAS FELICES CJ X 16",
+        "Precio": " $ 7.541 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0007",
+        "CodigoBarras": "7707014908287",
+        "Descripcion": "DULCE RELLENO SURTIDOX 100  CJ X 20 PQ",
+        "Precio": " $ 6.365 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0008",
+        "CodigoBarras": "7707014904241",
+        "Descripcion": "FRUTICANDY X 100 CJ X 28",
+        "Precio": " $ 4.473 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0009",
+        "CodigoBarras": "7707014904210",
+        "Descripcion": "FRUTICANDY X 300 CJ X 10",
+        "Precio": " $ 13.151 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDA0010",
+        "CodigoBarras": "7707014904203",
+        "Descripcion": "FRUTICANDY X 500 CJ X 6",
+        "Precio": " $ 21.689 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0001",
+        "CodigoBarras": "7804300010638",
+        "Descripcion": "VINO GATO NEGRO CABERNET X 750 CJ X 12",
+        "Precio": " $ 31.501 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0002",
+        "CodigoBarras": "7804300120603",
+        "Descripcion": "VINO GATO NEGRO MERLOT X 750 CJ X 12",
+        "Precio": " $ 31.500 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0003",
+        "CodigoBarras": "7804300010645",
+        "Descripcion": "VINO GATO NEGRO BLANCO X 750 CJ X 12",
+        "Precio": " $ 31.501 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0004",
+        "CodigoBarras": "7703562105413",
+        "Descripcion": "VINO GATO NEGRO MALBEC X 750 CJ X 12",
+        "Precio": " $ 31.501 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0005",
+        "CodigoBarras": "78043000110676",
+        "Descripcion": "VINO GATO NEGRO CABERNET  X 375 ML",
+        "Precio": " $ 19.706 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0006",
+        "CodigoBarras": "7501035042322",
+        "Descripcion": "TEQUILA JOSE CUERVO ESPECIAL SILVER X 750 CJ X 12",
+        "Precio": " $ 73.637 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDL0007",
+        "CodigoBarras": "7501035010109",
+        "Descripcion": "TEQUILA JOSE CUERVO ESPECIAL REPOSADO X 750 CJ X 12 UND",
+        "Precio": " $ 73.638 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0001",
+        "CodigoBarras": "7709947872239",
+        "Descripcion": "VINIPEL TABACO X 200",
+        "Precio": " $ 10.570 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0002",
+        "CodigoBarras": "7709947872284",
+        "Descripcion": "VINIPEL TABACO X 100",
+        "Precio": " $ 5.078 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0003",
+        "CodigoBarras": "7709947872277",
+        "Descripcion": "VINIPEL TABACO X 50",
+        "Precio": " $ 3.725 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0004",
+        "CodigoBarras": "7709947872215",
+        "Descripcion": "VINIPEL TABACO X 20",
+        "Precio": " $ 2.303 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0005",
+        "CodigoBarras": "7709947872291",
+        "Descripcion": "VINIPEL NEGRO OSMOTICO X 20",
+        "Precio": " $ 2.303 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDS0006",
+        "CodigoBarras": "7709947872260",
+        "Descripcion": "VINIPEL NEGRO OSMOTICO X 50",
+        "Precio": " $ 3.724 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDU0001",
+        "CodigoBarras": "7707142301660",
+        "Descripcion": "MARG.PREFERIDA X 125 CJ 4 DISPLAY",
+        "Precio": " $ 119.916 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDU0002",
+        "CodigoBarras": "7707142301677",
+        "Descripcion": "MARG.PREFERIDA X 250",
+        "Precio": " $ 114.651 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDU0003",
+        "CodigoBarras": "7707142301639",
+        "Descripcion": "MARG.PREFERIDA X 500",
+        "Precio": " $ 109.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDU0011",
+        "CodigoBarras": "7707142327318",
+        "Descripcion": "ESPARCIBLE PREFERIDA X 500 CJ X 18",
+        "Precio": " $ 6.176 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0001",
+        "CodigoBarras": "7862119507589",
+        "Descripcion": "CONSERVA DE PESCADO EN SALSA DE TOMATE SANCHO CJ X 48 UND",
+        "Precio": " $ 5.209 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0002",
+        "CodigoBarras": "7862119500153",
+        "Descripcion": "CONSERVA DE PESCADO TINAPA TOMATE DON SANCHO ABRE FACIL X 50",
+        "Precio": " $ 2.610 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0004",
+        "CodigoBarras": "7862119501396",
+        "Descripcion": "LOMO DE ATUN SANCHO EN AGUA X 175 GR CJ X 48 UND ABRE FACIL",
+        "Precio": " $ 4.016 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0005",
+        "CodigoBarras": "7862119505493",
+        "Descripcion": "LOMOS ACEITE DE GIRASOL DON SANCHO CJ X 48",
+        "Precio": " $ 4.244 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0007",
+        "CodigoBarras": "7862119505509",
+        "Descripcion": "THREE PACK LOMO ACEITE DE GIRASOL CAJA X 20",
+        "Precio": " $ 9.148 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JDX0008",
+        "CodigoBarras": "7862119508616",
+        "Descripcion": "ENSALADA DE ATUN CON VEGETALES DON SANCHO CAJA X 48",
+        "Precio": " $ 4.317 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0001",
+        "CodigoBarras": "7707096600031",
+        "Descripcion": "FARINA CANELA X 250 GR PC X 50 X10 DP",
+        "Precio": " $ 3.967 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0002",
+        "CodigoBarras": "7707096600055",
+        "Descripcion": "FARINA CANELA X 500 GR PC X 24",
+        "Precio": " $ 7.417 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0003",
+        "CodigoBarras": "7707096000000",
+        "Descripcion": "FARINA SURTIDA X 200 GR CJ X 48",
+        "Precio": " $ 3.023 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0004",
+        "CodigoBarras": "7707096600147",
+        "Descripcion": "FARINA VAINILA X 250 GR PC X 50",
+        "Precio": " $ 3.967 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0005",
+        "CodigoBarras": "7707096600178",
+        "Descripcion": "FARINA X 250 LECHE CONDENSADA PCX50",
+        "Precio": " $ 3.967 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0007",
+        "CodigoBarras": "7707096600017",
+        "Descripcion": "FARINA CANELA X 100 GR CJ X 144",
+        "Precio": " $ 1.683 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFF0008",
+        "CodigoBarras": "7707096600000",
+        "Descripcion": "FARINA SURTIDA 3 SABORES X 100 GR X CJ X 144 DP X12",
+        "Precio": " $ 1.683 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0002",
+        "CodigoBarras": "74460704910",
+        "Descripcion": "TEQUILA JIMADOR REPOSADO 700",
+        "Precio": " $ 97.225 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0003",
+        "CodigoBarras": "721733000159",
+        "Descripcion": "TEQUILA PATRON REPOSADO 700",
+        "Precio": " $ 220.700 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0004",
+        "CodigoBarras": "721733504459",
+        "Descripcion": "TEQUILA PATRON SILVER X 700",
+        "Precio": " $ 185.013 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0005",
+        "CodigoBarras": "7804320303178",
+        "Descripcion": "VINO CASILLERO CABERNET SUAVINON X 750 CJ X 12",
+        "Precio": " $ 46.951 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0006",
+        "CodigoBarras": "7804320985633",
+        "Descripcion": "VINO CASILLERO MERLOT X 750 CC CJ X 12",
+        "Precio": " $ 46.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0007",
+        "CodigoBarras": "7804320301174",
+        "Descripcion": "VINO CASILLERO BLANCO SAUVIGNON X 750 CJ X 12",
+        "Precio": " $ 46.951 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0008",
+        "CodigoBarras": "7804320510170",
+        "Descripcion": "VINO CASILLERO  ROSE X 750 CJ X 12",
+        "Precio": " $ 46.951 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0009",
+        "CodigoBarras": "7790975001340",
+        "Descripcion": "VINO ESPUMOSO CHANDON  ROSE 750",
+        "Precio": " $ 73.168 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0011",
+        "CodigoBarras": "7790975000183",
+        "Descripcion": "VINO ESPUMOSO CHANDON EXT.BRUT 750",
+        "Precio": " $ 59.000 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0012",
+        "CodigoBarras": "7804320135854",
+        "Descripcion": "VINO FRONTERA CARMENERE X 750 CJ X 12",
+        "Precio": " $ 29.800 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0013",
+        "CodigoBarras": "7804320559001",
+        "Descripcion": "VINO FRONTERA CABERNET SUAVINON X 750 CC CJ X 12",
+        "Precio": " $ 29.801 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0014",
+        "CodigoBarras": "7804320706009",
+        "Descripcion": "VINO FRONTERA MERLOT X 750 CC CJ X 12",
+        "Precio": " $ 29.800 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0015",
+        "CodigoBarras": "7804320483115",
+        "Descripcion": "VINO FRONTERA ROSE X 750 CC CJ X 12",
+        "Precio": " $ 29.801 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0016",
+        "CodigoBarras": "7804320556000",
+        "Descripcion": "VINO FRONTERA SAUV. BLANCO X 750 CC CJ X 12",
+        "Precio": " $ 30.253 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0018",
+        "CodigoBarras": "5099873001370",
+        "Descripcion": "WHISKY JACK DANIEL´S HONEY",
+        "Precio": " $ 100.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0020",
+        "CodigoBarras": "721733000012",
+        "Descripcion": "TEQUILA PATRON AÑEJO 700",
+        "Precio": " $ 254.187 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0022",
+        "CodigoBarras": "744607111317",
+        "Descripcion": "TEQUILA HERRADURA PLATA X 750",
+        "Precio": " $ 157.274 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0023",
+        "CodigoBarras": "5099873017623",
+        "Descripcion": "WHISKY JACK DANIEL 'S APPLE",
+        "Precio": " $ 100.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0024",
+        "CodigoBarras": "4067700015419",
+        "Descripcion": "JAGERMAISTER 700 ML CJ X 6 UND",
+        "Precio": " $ 91.478 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0025",
+        "CodigoBarras": "",
+        "Descripcion": "WHISKY MACALLAN 12 AÑOS DOBLE CASK 700",
+        "Precio": " $ 342.274 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0032",
+        "CodigoBarras": "74460704810",
+        "Descripcion": "TEQUILA JIMADOR BLANCO X 700 ML",
+        "Precio": " $ 94.168 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0033",
+        "CodigoBarras": "744607111324",
+        "Descripcion": "TEQUILA HERRADURA REPOSADO",
+        "Precio": " $ 178.494 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0037",
+        "CodigoBarras": "74460711133",
+        "Descripcion": "TEQUILA HERRADURA AÑEJO X 750",
+        "Precio": " $ 219.000 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0041",
+        "CodigoBarras": "7804320087016",
+        "Descripcion": "VINO CASILLERO CARMENERE X 750 CJ X 12",
+        "Precio": " $ 47.998 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0057",
+        "CodigoBarras": "7804320256900",
+        "Descripcion": "VINO CASILLERO CHARDONNAY 750",
+        "Precio": " $ 46.950 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0073",
+        "CodigoBarras": "080480985493",
+        "Descripcion": "RON BACARDI ZOMBIE X 750 CJ X 12",
+        "Precio": " $ 43.563 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0074",
+        "CodigoBarras": "080480985462",
+        "Descripcion": "RON BACARDI MOJITO X 750 CJ X 12 UND",
+        "Precio": " $ 43.058 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0075",
+        "CodigoBarras": "7501008616130",
+        "Descripcion": "RON BACARDI LIMON X 750 CJ X 12 UND",
+        "Precio": " $ 42.218 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0076",
+        "CodigoBarras": "0804803556090",
+        "Descripcion": "RON BACARDI LIMON X 375 CJ X 24 UND",
+        "Precio": " $ 25.417 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0077",
+        "CodigoBarras": "7501008611135",
+        "Descripcion": "RON BACARDI AÑEJO X 750 CJ X 12 UND",
+        "Precio": " $ 45.253 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0078",
+        "CodigoBarras": "7501008603017",
+        "Descripcion": "RON BACARDI SUPERIOR CARTA BLANCA X 750 CJ X 12 UND",
+        "Precio": " $ 49.377 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0079",
+        "CodigoBarras": "5010752000307",
+        "Descripcion": "WHISKY WILLIAM LAWSON´S X 700 CC CJ X 12 UND",
+        "Precio": " $ 45.638 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0089",
+        "CodigoBarras": "897076002003",
+        "Descripcion": "BULLDOG GIN 750",
+        "Precio": " $ 158.972 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0090",
+        "CodigoBarras": "5010677713009",
+        "Descripcion": "GINEGRA BOMBAY SAPPHIRE X 500 ML",
+        "Precio": " $ 88.715 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0091",
+        "CodigoBarras": "5010677714006",
+        "Descripcion": "GINEBRA BOMBAY SAPPHIRE X 700 ML",
+        "Precio": " $ 115.531 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0103",
+        "CodigoBarras": "82184001172",
+        "Descripcion": "WHISKY JACK DANIEL´S FIRE",
+        "Precio": " $ 100.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0107",
+        "CodigoBarras": "082184090466",
+        "Descripcion": "WHISKY JACK DANIEL´S N° 7",
+        "Precio": " $ 100.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0114",
+        "CodigoBarras": "7610113011898",
+        "Descripcion": "RON BACARDI MANDARINA 750 ML CJ X 12",
+        "Precio": " $ 43.662 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0117",
+        "CodigoBarras": "80480985486",
+        "Descripcion": "RON BACARDI BAHAMA MAMA 750 ML CJ X 12",
+        "Precio": " $ 42.217 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JFW0126",
+        "CodigoBarras": "08048098550",
+        "Descripcion": "RON BACARDI HURACANE X 750 CJ X 12",
+        "Precio": " $ 43.209 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JHG0001",
+        "CodigoBarras": "7707192454927",
+        "Descripcion": "LECHE EN POLVO RICA LECHECOL X 380 GR X 30",
+        "Precio": " $ 8.706 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JHG0002",
+        "CodigoBarras": "7707192455009",
+        "Descripcion": "MEZCLA LACTEA EN POLVO LA PECOSITA X 380 GR CJ X 30",
+        "Precio": " $ 7.471 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JHG0003",
+        "CodigoBarras": "7707192458017",
+        "Descripcion": "LECHE EN POLVO ENTERA ROSALINDA X 380 GR CJ X 30",
+        "Precio": " $ 9.295 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0002",
+        "CodigoBarras": "7453010015787",
+        "Descripcion": "ESPONJA MATRIX X 12 UND CJ 48",
+        "Precio": " $ 6.406 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0003",
+        "CodigoBarras": "7709916044346",
+        "Descripcion": "MEGAESTROPAJO CUADRADO X 12 UND",
+        "Precio": " $ 2.318 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0005",
+        "CodigoBarras": "7709916044339",
+        "Descripcion": "MEGAESTROPAJO DISCO FACIAL X 12 UND",
+        "Precio": " $ 1.830 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0006",
+        "CodigoBarras": "7709916044308",
+        "Descripcion": "MEGAESTROPAJO ESPALDA X 12 UND",
+        "Precio": " $ 4.439 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0007",
+        "CodigoBarras": "7709916044384",
+        "Descripcion": "MEGAESTROPAJO NATURAL X 12 UND",
+        "Precio": " $ 1.854 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JJS0008",
+        "CodigoBarras": "7709916044322",
+        "Descripcion": "MEGAESTROPAJO TIPO GUANTE X 12 UND",
+        "Precio": " $ 4.269 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLA0001",
+        "CodigoBarras": "7709677293960",
+        "Descripcion": "DESQUITE AGUARDIENTE ARTESANAL X 750 ML CJ X 6",
+        "Precio": " $ 51.256 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLA0002",
+        "CodigoBarras": "7709677293991",
+        "Descripcion": "DESQUITE + FLASK",
+        "Precio": " $ 57.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0001",
+        "CodigoBarras": "7702532300131",
+        "Descripcion": "BON ELEC X 3 VAINILLA FRANCESA CJ X 12",
+        "Precio": " $ 22.059 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0003",
+        "CodigoBarras": "7702532840187",
+        "Descripcion": "BON ELEC X 3 COMBINADO CJ X 12",
+        "Precio": " $ 22.059 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0008",
+        "CodigoBarras": "7702532300124",
+        "Descripcion": "VAPO ELEC VAINILLA FRANCESA CJ X 12",
+        "Precio": " $ 12.575 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0010",
+        "CodigoBarras": "7702532370882",
+        "Descripcion": "BON FRUTOS ROJOS  X 250 ML SPRAY CJ X 12",
+        "Precio": " $ 4.962 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0011",
+        "CodigoBarras": "7702532370899",
+        "Descripcion": "BON BRISA TROPICAL X 250 ML SPRAY CJ X 12",
+        "Precio": " $ 4.962 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0014",
+        "CodigoBarras": "7702532370974",
+        "Descripcion": "BON BABY FRESH X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0015",
+        "CodigoBarras": "7702532370905",
+        "Descripcion": "BON BAMBU X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0016",
+        "CodigoBarras": "7702532370912",
+        "Descripcion": "BON CANELA X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0018",
+        "CodigoBarras": "7702532312295",
+        "Descripcion": "BON ELEC X 3 FRUTOS ROJOS CJ X 12",
+        "Precio": " $ 22.059 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0020",
+        "CodigoBarras": "7702532370943",
+        "Descripcion": "BON LAVANDA X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0021",
+        "CodigoBarras": "7702532370707",
+        "Descripcion": "BON FRUTOS ROJOS X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0023",
+        "CodigoBarras": "7702532370981",
+        "Descripcion": "BON VAINILLA X 400 ML CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0026",
+        "CodigoBarras": "7702532430135",
+        "Descripcion": "PINOLINA BABY FRESH X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0029",
+        "CodigoBarras": "7702532430746",
+        "Descripcion": "PINOLINA BAMBU X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0032",
+        "CodigoBarras": "7702532430517",
+        "Descripcion": "PINOLINA CANELA X 150 ML CJ X 24 *",
+        "Precio": " $ 988 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0033",
+        "CodigoBarras": "7702532552653",
+        "Descripcion": "PINOLINA CANELA Y MIEL  X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0034",
+        "CodigoBarras": "7702532450638",
+        "Descripcion": "PINOLINA CITRONELA GALON CJ X 4 *",
+        "Precio": " $ 18.196 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0035",
+        "CodigoBarras": "7702532430609",
+        "Descripcion": "PINOLINA CITRONELA X 150 ML CJ X 24 *",
+        "Precio": " $ 988 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0036",
+        "CodigoBarras": "7702532430937",
+        "Descripcion": "PINOLINA CITRONELA X 2000 ML CJ X 6 *",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0037",
+        "CodigoBarras": "7702532430845",
+        "Descripcion": "PINOLINA CITRONELA X 460 ML CJ X 24 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0038",
+        "CodigoBarras": "7702532634311",
+        "Descripcion": "PINOLINA CITRONELA X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0039",
+        "CodigoBarras": "7702532430661",
+        "Descripcion": "PINOLINA DOY PACK CANELA X 200 ML CJ X 48 *",
+        "Precio": " $ 1.353 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0040",
+        "CodigoBarras": "7702532430678",
+        "Descripcion": "PINOLINA DOY PACK CITRONELA X 200 ML CJ X 48 *",
+        "Precio": " $ 1.353 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0041",
+        "CodigoBarras": "7702532430685",
+        "Descripcion": "PINOLINA DOY PACK LAVANDA X 200 ML CJ X 48 *",
+        "Precio": " $ 1.353 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0042",
+        "CodigoBarras": "7702532430876",
+        "Descripcion": "PINOLINA FLORAL X 460 ML CJ X 24 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0043",
+        "CodigoBarras": "7702532430142",
+        "Descripcion": "PINOLINA FLORAL X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0044",
+        "CodigoBarras": "7702532734486",
+        "Descripcion": "PINOLINA FRUTOS ROJOS X 960 ML CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0049",
+        "CodigoBarras": "7702532430548",
+        "Descripcion": "PINOLINA LAVANDA X 150 ML CJ X 24 *",
+        "Precio": " $ 988 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0050",
+        "CodigoBarras": "7702532430456",
+        "Descripcion": "PINOLINA X 960 ENCANTO DE COCO *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0051",
+        "CodigoBarras": "7702532430449",
+        "Descripcion": "PINOLINA VAINILLA FRANCESA X 960 CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0053",
+        "CodigoBarras": "7702532630108",
+        "Descripcion": "RAYOL MATATODO X 230 ML CJ X 12",
+        "Precio": " $ 7.260 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0054",
+        "CodigoBarras": "7702532630207",
+        "Descripcion": "RAYOL MATATODO X 400 ML CJ X 12",
+        "Precio": " $ 12.037 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0055",
+        "CodigoBarras": "7702532863148",
+        "Descripcion": "RAYOL RASTREROS X 400 ML CJ X 12",
+        "Precio": " $ 12.159 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0057",
+        "CodigoBarras": "7702532863131",
+        "Descripcion": "RAYOL VOLADORES X 230 ML CJ X 12",
+        "Precio": " $ 6.934 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0058",
+        "CodigoBarras": "7702532863155",
+        "Descripcion": "RAYOL VOLADORES X 400 ML CJ X 12",
+        "Precio": " $ 10.380 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0059",
+        "CodigoBarras": "7702532312721",
+        "Descripcion": "VARITAS ARMONIA FLORAL X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0060",
+        "CodigoBarras": "7702532313056",
+        "Descripcion": "VARITAS BAMBU X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0063",
+        "CodigoBarras": "7702532312790",
+        "Descripcion": "VARITAS FRUTOS ROJOS X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0064",
+        "CodigoBarras": "7702532312103",
+        "Descripcion": "VARITAS FRUTOS ROJOSX40 ML",
+        "Precio": " $ 7.321 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0065",
+        "CodigoBarras": "7702532312707",
+        "Descripcion": "VARITAS GRANADILLA X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0066",
+        "CodigoBarras": "7702532312738",
+        "Descripcion": "VARITAS LAVANDA MANZANILLA X 80 ML",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0067",
+        "CodigoBarras": "7702532312110",
+        "Descripcion": "VARITAS MANZANA CANELA X  40 ML",
+        "Precio": " $ 5.612 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0068",
+        "CodigoBarras": "7702532313087",
+        "Descripcion": "VARITAS MANZANA CANELA X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0070",
+        "CodigoBarras": "7702532312127",
+        "Descripcion": "VARITAS VAINILLA X 40 ML",
+        "Precio": " $ 7.321 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0071",
+        "CodigoBarras": "7702532312820",
+        "Descripcion": "VARITAS VAINILLA X 80 ML CJ X 12",
+        "Precio": " $ 12.358 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0075",
+        "CodigoBarras": "7702532430159",
+        "Descripcion": "PINOLINA LAVANDA X 960 CJ X 12 *",
+        "Precio": " $ 6.728 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0076",
+        "CodigoBarras": "7702532430852",
+        "Descripcion": "PINOLINA BAMBU X 460 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0082",
+        "CodigoBarras": "7702532430883",
+        "Descripcion": "PINOLINA FRUTOS ROJOS X 460 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0083",
+        "CodigoBarras": "7702532430807",
+        "Descripcion": "PINOLINA BABY FRESH X 460 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0086",
+        "CodigoBarras": "7702532312394",
+        "Descripcion": "VAPO ELEC FRUTOS ROJOS CJ X 12",
+        "Precio": " $ 12.575 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0087",
+        "CodigoBarras": "7702532450607",
+        "Descripcion": "PINOLINA GALON CANELA CJ X 4 *",
+        "Precio": " $ 18.196 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0092",
+        "CodigoBarras": "7702532430814",
+        "Descripcion": "PINOLINA CANELA X 460 CJ X 24 *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0093",
+        "CodigoBarras": "7702532370622",
+        "Descripcion": "BON BRISA TROPICAL X 400 CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0094",
+        "CodigoBarras": "7702532450614",
+        "Descripcion": "PINOLINA GALON LAVANDA CJ X 4 *",
+        "Precio": " $ 18.196 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0097",
+        "CodigoBarras": "77072532430999",
+        "Descripcion": "PINOLINA DOY PACK FRUTOS ROJOS X 200 CJ X 48*",
+        "Precio": " $ 1.353 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0098",
+        "CodigoBarras": "7702532188579",
+        "Descripcion": "BONAIRE AUTO MADEIRA VAINILLA X 6 ML",
+        "Precio": " $ 11.619 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0099",
+        "CodigoBarras": "7702532314404",
+        "Descripcion": "BONAIRE AUTO MADEIRA BRISA TROPICAL X 6 ML",
+        "Precio": " $ 11.620 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0101",
+        "CodigoBarras": "7702532476836",
+        "Descripcion": "VARITAS BAMBU X 40 CJ X 12",
+        "Precio": " $ 7.321 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0106",
+        "CodigoBarras": "7702532981507",
+        "Descripcion": "PINOLINA GALON VAINILLA CJ  X 4",
+        "Precio": " $ 18.195 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0107",
+        "CodigoBarras": "7702532430821",
+        "Descripcion": "PINOLINA LAVANDA X 460 ML CJ X 24 UND *",
+        "Precio": " $ 3.118 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0108",
+        "CodigoBarras": "7702532430913",
+        "Descripcion": "PINOLINA CANELA X 2000 CJ X6 UND *",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0109",
+        "CodigoBarras": "7702532430920",
+        "Descripcion": "PINOLINA LAVANDA X 2000 CJ X 6 UND *",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0110",
+        "CodigoBarras": "7702532430944",
+        "Descripcion": "PINOLINA BAMBU X 2000 CJ X 6 UND *",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0111",
+        "CodigoBarras": "7702532430968",
+        "Descripcion": "PINOLINA FRUTOS ROJOS X 2000 CJ X 6 UND *",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0115",
+        "CodigoBarras": "7702532164498",
+        "Descripcion": "ELEC X 1 MANDARINA Y TOROJA CJ X 12",
+        "Precio": " $ 8.420 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0116",
+        "CodigoBarras": "7702532371803",
+        "Descripcion": "BON ELEC X 3 FRUTAS DEL CARIBE CJ X 12",
+        "Precio": " $ 22.059 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0117",
+        "CodigoBarras": "7702532087059",
+        "Descripcion": "VAPO ELEC FRUTAS DEL CARIBE CJ X 12",
+        "Precio": " $ 12.575 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0118",
+        "CodigoBarras": "7702532226530",
+        "Descripcion": "BON GEL FRUTOS ROJOS X 170 ML CJ X 12",
+        "Precio": " $ 5.263 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0119",
+        "CodigoBarras": "7702532992077",
+        "Descripcion": "BON GEL FRUTAS DEL CARIBE X 170 ML CJ X 12",
+        "Precio": " $ 5.263 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0120",
+        "CodigoBarras": "7702532957922",
+        "Descripcion": "BON GEL AGUA DE VERBENA X 170 ML CJ X 12",
+        "Precio": " $ 5.263 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0121",
+        "CodigoBarras": "7702532693103",
+        "Descripcion": "ELIMINADOR MANDARINA TORONJA X 250 CJ X 12 *",
+        "Precio": " $ 8.448 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0128",
+        "CodigoBarras": "7702532450652",
+        "Descripcion": "PINOLINA 5000 ML CANELA",
+        "Precio": " $ 19.960 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0129",
+        "CodigoBarras": "7702532450083",
+        "Descripcion": "PINOLINA 5000 ML CITRONELA",
+        "Precio": " $ 19.960 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0130",
+        "CodigoBarras": "7702532450720",
+        "Descripcion": "PINOLINA 5000 ML LAVANDA",
+        "Precio": " $ 19.960 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0133",
+        "CodigoBarras": "7702532828901",
+        "Descripcion": "BON FRUTAS DE CARIBE X 400",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0134",
+        "CodigoBarras": "772532720359",
+        "Descripcion": "TERGO GLOP PINO X 1 CJ X 24",
+        "Precio": " $ 4.871 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0135",
+        "CodigoBarras": "77702532720373",
+        "Descripcion": "TERGO GLOP LAVANDA X 1 CJ X 24",
+        "Precio": " $ 4.871 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0136",
+        "CodigoBarras": "77702532320376",
+        "Descripcion": "TERGO GLOP CITRUS X 1 CJ X 24",
+        "Precio": " $ 4.871 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0141",
+        "CodigoBarras": "770253237072",
+        "Descripcion": "BON ORQUIDEA DE LOS ANDES X 400 ML  CJ X 12",
+        "Precio": " $ 8.092 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0145",
+        "CodigoBarras": "7702532164429",
+        "Descripcion": "ELEC X 2 MANDARINA Y TORONJA",
+        "Precio": " $ 16.662 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0146",
+        "CodigoBarras": "7702532312448",
+        "Descripcion": "ELEC X 1 FRUTOS ROJOS CJ X 12 UND",
+        "Precio": " $ 8.420 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0147",
+        "CodigoBarras": "7702532300117",
+        "Descripcion": "ELEC X 1 VAINILLA CJ X 12 UND",
+        "Precio": " $ 8.420 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0151",
+        "CodigoBarras": "7702532896313",
+        "Descripcion": "TERGO GLOP  X 3 LAVANDA CJ X 12",
+        "Precio": " $ 12.242 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0152",
+        "CodigoBarras": "7702532896320",
+        "Descripcion": "TERGO GLOP X 3 PINO CJ X 12",
+        "Precio": " $ 12.242 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0157",
+        "CodigoBarras": "7702532192002",
+        "Descripcion": "PINOLINA VAINILLA X 2000 CJ X 6",
+        "Precio": " $ 11.648 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0159",
+        "CodigoBarras": "7702532788250",
+        "Descripcion": "VARITAS SECAS MORA FRAMBUESA CJ X 12",
+        "Precio": " $ 9.149 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0160",
+        "CodigoBarras": "7702532447041",
+        "Descripcion": "GEL FRUTOS ROJOS MORA SILVESTRE X 80 ML CJ X 12",
+        "Precio": " $ 3.677 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0164",
+        "CodigoBarras": "7702532462563",
+        "Descripcion": "AUTOMATICO + REPUESTO FLORAL CJ X 6",
+        "Precio": " $ 28.919 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0165",
+        "CodigoBarras": "7702532911672",
+        "Descripcion": "AUTOMATICO + REPUESTO VAINILLA CJ X 6",
+        "Precio": " $ 28.919 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLC0166",
+        "CodigoBarras": "7702532372107",
+        "Descripcion": "AUTOMATICO REPT FLORAL X 12",
+        "Precio": " $ 15.270 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0001",
+        "CodigoBarras": "7709990961584",
+        "Descripcion": "CEBADA PERLADA 500 GR PACA X25",
+        "Precio": " $ 2.479 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0002",
+        "CodigoBarras": "7709990285383",
+        "Descripcion": "CUCHUCO CEBADA 500 GR PACA X 25 UND",
+        "Precio": " $ 2.479 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0003",
+        "CodigoBarras": "7709990202465",
+        "Descripcion": "CUCHUCO DE MAIZ 500 GR PACA X 25 UND",
+        "Precio": " $ 2.261 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0004",
+        "CodigoBarras": "7709990584097",
+        "Descripcion": "CUCHUCO DE TRIGO 500 GR PACA X 25 UND",
+        "Precio": " $ 1.731 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0005",
+        "CodigoBarras": "7709990584080",
+        "Descripcion": "HARINA DE MAIZ  PINTADO 500 GR PACA X 25 UND",
+        "Precio": " $ 1.796 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0006",
+        "CodigoBarras": "7709990584073",
+        "Descripcion": "HARINA DE MAIZ AMARILLA X 500 PC X 25",
+        "Precio": " $ 1.434 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLH0007",
+        "CodigoBarras": "7709990093025",
+        "Descripcion": "HARINA DE MAIZ BLANCO X 500 GR PC X  25",
+        "Precio": " $ 1.561 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0001",
+        "CodigoBarras": "7702764022504",
+        "Descripcion": "GUANTE  DOMESTICO TALLA 7",
+        "Precio": " $ 3.327 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0002",
+        "CodigoBarras": "7702764023006",
+        "Descripcion": "GUANTE DOMESTICO TALLA 7 1/2 *",
+        "Precio": " $ 3.327 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0003",
+        "CodigoBarras": "7702764024003",
+        "Descripcion": "GUANTE DOMESTICO TALLA 8 *",
+        "Precio": " $ 3.327 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0004",
+        "CodigoBarras": "7702764025000",
+        "Descripcion": "GUANTE DOMESTICO TALLA 8 1/2 *",
+        "Precio": " $ 3.327 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0005",
+        "CodigoBarras": "7702764026007",
+        "Descripcion": "GUANTE DOMESTICO TALLA 9 *",
+        "Precio": " $ 3.327 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0006",
+        "CodigoBarras": "7702764026502",
+        "Descripcion": "GUANTE CALIBRE 25 TALLA 7",
+        "Precio": " $ 3.462 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0007",
+        "CodigoBarras": "7702764027004",
+        "Descripcion": "GUANTE CALIBRE 25 TALLA 7 1/2 *",
+        "Precio": " $ 3.462 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0008",
+        "CodigoBarras": "7702764028001",
+        "Descripcion": "GUANTE CALIBRE 25 TALLA 8 *",
+        "Precio": " $ 3.462 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0009",
+        "CodigoBarras": "7702764029008",
+        "Descripcion": "GUANTE CALIBRE 25 TALLA 8 1/2 *",
+        "Precio": " $ 3.462 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0010",
+        "CodigoBarras": "7702764020004",
+        "Descripcion": "GUANTE CALIBRE 25 TALLA 9 *",
+        "Precio": " $ 3.462 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0011",
+        "CodigoBarras": "7702764036006",
+        "Descripcion": "GUANTE CALIBRE 35 TALLA 7",
+        "Precio": " $ 4.952 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0012",
+        "CodigoBarras": "7702764021001",
+        "Descripcion": "GUANTE CALIBRE 35 TALLA 7 1/2 *",
+        "Precio": " $ 4.952 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0013",
+        "CodigoBarras": "7702764032008",
+        "Descripcion": "GUANTE CALIBRE 35 TALLA 8 *",
+        "Precio": " $ 4.952 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0014",
+        "CodigoBarras": "7702764023005",
+        "Descripcion": "GUANTE CALIBRE 35 TALLA 8 1/2 *",
+        "Precio": " $ 4.952 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JLT0015",
+        "CodigoBarras": "7702764024002",
+        "Descripcion": "GUANTE CALIBRE 35 TALLA 9 *",
+        "Precio": " $ 4.952 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMB0001",
+        "CodigoBarras": "7702648000017",
+        "Descripcion": "VITACHOCOLATE X 500 GR EN BARRA CJ X 50 UND",
+        "Precio": " $ 8.514 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMB0002",
+        "CodigoBarras": "7702648000116",
+        "Descripcion": "VITACHOCOLATE X 250 GR EN BARRA CJ X 50 UND",
+        "Precio": " $ 4.344 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMN0001",
+        "CodigoBarras": "7707181397379",
+        "Descripcion": "SAL MI SAL X 500 PC X 25",
+        "Precio": " $ 819 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMN0002",
+        "CodigoBarras": "7707181398499",
+        "Descripcion": "SAL MI SAL  X 1000 PC X 20",
+        "Precio": " $ 1.565 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMN0003",
+        "CodigoBarras": "7707181391959",
+        "Descripcion": "JABON BIG BLU CUADRADO X 300 G CJ X 25",
+        "Precio": " $ 1.547 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JMN0004",
+        "CodigoBarras": "7707181392025",
+        "Descripcion": "JABON BIG BLU CUADRADO X 3 CJ X 16",
+        "Precio": " $ 4.641 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0001",
+        "CodigoBarras": "7702108205556",
+        "Descripcion": "PROTECTOR  X 15 PRECIO ESPECIAL CAJA X 36",
+        "Precio": " $ 3.161 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0002",
+        "CodigoBarras": "7702108206317",
+        "Descripcion": "PROTECTOR ELLAS ANATOMICO PAGUE 160 LLEV 180 CJ X 10",
+        "Precio": " $ 14.217 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0003",
+        "CodigoBarras": "7702108205457",
+        "Descripcion": "PROTECTOR X 30 PRECIO ESPECIAL CAJA X 18",
+        "Precio": " $ 6.084 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0006",
+        "CodigoBarras": "7702108209714",
+        "Descripcion": "TOALLA NOCTURNA + NOCTURNA PC X 18",
+        "Precio": " $ 6.610 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0007",
+        "CodigoBarras": "7702108209813",
+        "Descripcion": "TOALLAS ELLAS CON ALAS  PC X 24 (VERDE)",
+        "Precio": " $ 4.304 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0011",
+        "CodigoBarras": "7702108850794",
+        "Descripcion": "TOALLA NOCTURNA +DELGADA PC X 24",
+        "Precio": " $ 4.262 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0012",
+        "CodigoBarras": "7702108201770",
+        "Descripcion": "TOALLA ELLAS DESGADAS X 40 UND PCA X 12",
+        "Precio": " $ 8.411 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0013",
+        "CodigoBarras": "7702108200919",
+        "Descripcion": "TOALLA ELLAS DELGA. NARANJA  PAGUE 10 LLEVE 20 PC X 24",
+        "Precio": " $ 5.060 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0016",
+        "CodigoBarras": "7702108206751",
+        "Descripcion": "PROTECTOR ELLAS X 10 PACA X 72 UND",
+        "Precio": " $ 1.053 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0018",
+        "CodigoBarras": "7702108207819",
+        "Descripcion": "JABON INTIMO ELLAS X 200 ML CAJA X 12 UND",
+        "Precio": " $ 6.992 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPD0023",
+        "CodigoBarras": "7702108203057",
+        "Descripcion": "TOALLAS ELLAS CON ALAS PACA X 48 (VERDE)",
+        "Precio": " $ 2.298 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0001",
+        "CodigoBarras": "7702120012996",
+        "Descripcion": "PAPELS ROSAL XXG 12 PAQUETES X 4 ROLLOS",
+        "Precio": " $ 6.902 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0002",
+        "CodigoBarras": "7702120012972",
+        "Descripcion": "PAPELS ROSAL XXG 4 PAQUETES X 12 ROLLOS",
+        "Precio": " $ 16.561 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0003",
+        "CodigoBarras": "7702120012965",
+        "Descripcion": "PAPELS ROSAL XXG 3 PAQUETES X 15 ROLLOS",
+        "Precio": " $ 21.551 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0004",
+        "CodigoBarras": "7702120013061",
+        "Descripcion": "PAPELS ROSAL XG 12 PAQUETES X 4 ROLLOS",
+        "Precio": " $ 5.682 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0005",
+        "CodigoBarras": "7702120013078",
+        "Descripcion": "PAPELS ROSAL XG 4 PAQUETES X 12 ROLLOS X 25 MTS",
+        "Precio": " $ 12.965 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0006",
+        "CodigoBarras": "7702120012736",
+        "Descripcion": "PAPELS SUAVE GOLD 12 PAQUETES X 4 ROLLOS",
+        "Precio": " $ 8.619 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0007",
+        "CodigoBarras": "7702120012743",
+        "Descripcion": "PAPELS SUAVE GOLD 4 PAQUETES X 12 ROLLOS",
+        "Precio": " $ 25.516 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0008",
+        "CodigoBarras": "7702120009569",
+        "Descripcion": "TOALLA DE COCINA FAVORITA CJ X 24",
+        "Precio": " $ 1.714 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0009",
+        "CodigoBarras": "7702120009576",
+        "Descripcion": "TOALLA DE COCINA FAVORITA POR X 3  CJ X 8",
+        "Precio": " $ 5.040 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0010",
+        "CodigoBarras": "7702120005707",
+        "Descripcion": "PAÑUELO FACIAL SUAVE PEQUEÑO CJ X 18",
+        "Precio": " $ 3.450 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0011",
+        "CodigoBarras": "7702120010541",
+        "Descripcion": "PAÑUELO FACIAL SUAVE BOLSILLO 30 PAQUETES X 4 UNIDADES",
+        "Precio": " $ 3.195 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0012",
+        "CodigoBarras": "7709674433413",
+        "Descripcion": "PAÑAL BEBE DREAMS ETAPA 3 TALLA G PACA X 8",
+        "Precio": " $ 23.717 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0013",
+        "CodigoBarras": "7709845007306",
+        "Descripcion": "PAÑAL BEBE DREAMS ETAPA 4 TALLA XG PACA X 8",
+        "Precio": " $ 29.889 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0014",
+        "CodigoBarras": "7702120013252",
+        "Descripcion": "TOALLA HIGIENICA SUAVE NOCTURNA MIX CJ X 24",
+        "Precio": " $ 3.000 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0015",
+        "CodigoBarras": "7702120013269",
+        "Descripcion": "TOALLA HIGIENICA SUAVE DELGADA MIX CJ X 36",
+        "Precio": " $ 2.572 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0016",
+        "CodigoBarras": "7702120012446",
+        "Descripcion": "PROTECTOR DIARIO SUAVE X 15 CJ X 36",
+        "Precio": " $ 1.321 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0017",
+        "CodigoBarras": "7702120013009",
+        "Descripcion": "PAPELS ROSAL XXG POR UNIDAD",
+        "Precio": " $ 1.582 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0018",
+        "CodigoBarras": "7702120013030",
+        "Descripcion": "PAPELS ROSAL G POR UNIDAD",
+        "Precio": " $ 1.139 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0019",
+        "CodigoBarras": "7702120013054",
+        "Descripcion": "PAPELS ROSAL G 4 PAQUETES X 12 ROLLOS",
+        "Precio": " $ 12.731 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0020",
+        "CodigoBarras": "7702120012989",
+        "Descripcion": "PAPELS ROSAL XXG 8 PAQUETES X 6 ROLLOS",
+        "Precio": " $ 8.212 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0021",
+        "CodigoBarras": "7702120012682",
+        "Descripcion": "SERVILLETA FAVORITA X 300  CJ X 15",
+        "Precio": " $ 3.619 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0022",
+        "CodigoBarras": "7702120147940",
+        "Descripcion": "SERVILLETA SUAVE GOLD  X 40  CJ X 24",
+        "Precio": " $ 4.748 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0023",
+        "CodigoBarras": "7702120010381",
+        "Descripcion": "SERVILLETA ROSAL X 100 CJ X 30",
+        "Precio": " $ 3.357 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0024",
+        "CodigoBarras": "7702120013689",
+        "Descripcion": "SERVILLETA ROSAL MEGAPACK CJ X 10",
+        "Precio": " $ 9.299 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0025",
+        "CodigoBarras": "7702120010275",
+        "Descripcion": "SERVILLETA SUAVE GOLD  X 100  CJ X 24",
+        "Precio": " $ 6.014 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0026",
+        "CodigoBarras": "7702120008005",
+        "Descripcion": "SERVILLETA FAVORITA CAFETERIA X 100 CJ X 30",
+        "Precio": " $ 2.121 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0027",
+        "CodigoBarras": "7702120010121",
+        "Descripcion": "TOALLA COCINA ROSAL X 1 CJ X 12",
+        "Precio": " $ 6.501 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0028",
+        "CodigoBarras": "7702120010145",
+        "Descripcion": "TOALLA COCINA ROSAL X 3 CJ X 4",
+        "Precio": " $ 14.801 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPN0029",
+        "CodigoBarras": "7702120014105",
+        "Descripcion": "PAPEL ROSAL MAXIMO 4PAQUETES X 12 ROLLOS",
+        "Precio": " $ 12.001 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0001",
+        "CodigoBarras": "7705525010123",
+        "Descripcion": "AREPASAN BLANCA X 1000 GR PC X 10",
+        "Precio": " $ 2.588 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0002",
+        "CodigoBarras": "7705525010017",
+        "Descripcion": "AREPASAN BLANCA X 500 GR PC X 24",
+        "Precio": " $ 1.323 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0003",
+        "CodigoBarras": "7705525020122",
+        "Descripcion": "HARINA LA MONJITA X 500 GR PC X 24",
+        "Precio": " $ 1.281 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0005",
+        "CodigoBarras": "7705525095014",
+        "Descripcion": "MACARRON RIOKA X 250 PC X 24",
+        "Precio": " $ 941 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0006",
+        "CodigoBarras": "7705525093072",
+        "Descripcion": "FIDEOS RIOKA X 250 PC X 24",
+        "Precio": " $ 941 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0007",
+        "CodigoBarras": "7707525092013",
+        "Descripcion": "CONCHAS RIOKA X 250 PC X 24",
+        "Precio": " $ 941 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0008",
+        "CodigoBarras": "770705525091054",
+        "Descripcion": "SPAGUETTI RIOKA X 1000 PC X 12",
+        "Precio": " $ 3.758 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0009",
+        "CodigoBarras": "77070525091016",
+        "Descripcion": "SPAGUETTI RIOKA X 250 PC X 24",
+        "Precio": " $ 941 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0010",
+        "CodigoBarras": "770705525093089",
+        "Descripcion": "FIDEOS RIOKA X 1000 PC X 6",
+        "Precio": " $ 3.758 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0011",
+        "CodigoBarras": "7705525092037",
+        "Descripcion": "CONCHAS RIOKA X 1000 PC X 6",
+        "Precio": " $ 3.758 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPO0012",
+        "CodigoBarras": "770552509354",
+        "Descripcion": "MACARRON X 1000 PC X 6",
+        "Precio": " $ 3.758 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPR0001",
+        "CodigoBarras": "2222070752520",
+        "Descripcion": "ARENA FELIGATO VALVULA X 4 KL PC X 6",
+        "Precio": " $ 11.877 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPR0002",
+        "CodigoBarras": "2222070727207",
+        "Descripcion": "ARENA FELIGATO X 25 KL",
+        "Precio": " $ 59.282 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPR0003",
+        "CodigoBarras": "7709376795369",
+        "Descripcion": "ARENA FELIGATO LAVANDA X 4,5 KL PC X 6",
+        "Precio": " $ 13.445 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPR0006",
+        "CodigoBarras": "2222070752629",
+        "Descripcion": "ARENA FELIGATO X 8 KL PC X 4",
+        "Precio": " $ 21.961 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPR0008",
+        "CodigoBarras": "",
+        "Descripcion": "ARENA FELIGATO X 4 KL PC X 6",
+        "Precio": " $ 9.644 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0001",
+        "CodigoBarras": "7709645809834",
+        "Descripcion": "VINAGRE DE MANZANA X 500 ML CJ X 24",
+        "Precio": " $ 1.270 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0002",
+        "CodigoBarras": "7709645809889",
+        "Descripcion": "VINAGRE BLANCO X 500 ML CJ X 24",
+        "Precio": " $ 1.270 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0003",
+        "CodigoBarras": "7709645809896",
+        "Descripcion": "VINAGRE BLANCO X 3000 ML CJ X 6",
+        "Precio": " $ 5.081 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0004",
+        "CodigoBarras": "7709645809865",
+        "Descripcion": "VINAGRE BLANCO X 1000 ML CJ X 12",
+        "Precio": " $ 2.542 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0005",
+        "CodigoBarras": "7709645809841",
+        "Descripcion": "VINAGRE BLANCO X 5000 ML CJ X 4",
+        "Precio": " $ 7.622 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0006",
+        "CodigoBarras": "7709645809810",
+        "Descripcion": "VINAGRE DE MANZANA X 3000 ML CJ X 6",
+        "Precio": " $ 5.081 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JPS0009",
+        "CodigoBarras": "7708672942651",
+        "Descripcion": "SALSA DE AJI CJ X 12",
+        "Precio": " $ 2.562 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRR0001",
+        "CodigoBarras": "7709990899",
+        "Descripcion": "TISANAS SURTIDA PC X 24 UND",
+        "Precio": " $ 39.909 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRR0002",
+        "CodigoBarras": "7709990336191",
+        "Descripcion": "AROMATICA PANELA FRUTOS ROJOS PC X 12",
+        "Precio": " $ 3.361 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRR0003",
+        "CodigoBarras": "7709990000000",
+        "Descripcion": "AROMATICA PANELA SURTIDA PC X 12DP",
+        "Precio": " $ 3.362 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRR0005",
+        "CodigoBarras": "7709990336160",
+        "Descripcion": "AROMATICA PANELA MARACUYA X 12",
+        "Precio": " $ 3.362 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRS0006",
+        "CodigoBarras": "7709916044353",
+        "Descripcion": "MEGA NATILLA AREQUIPE X 300 CJ X 20 UND",
+        "Precio": " $ 2.911 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRS0007",
+        "CodigoBarras": "7709916044315",
+        "Descripcion": "MEGA NATILLA MARACUYA X 300 CAJA X 20 UND",
+        "Precio": " $ 2.911 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRS0008",
+        "CodigoBarras": "7709916044391",
+        "Descripcion": "MEGA NATILLA COCO X 300 CAJA X 20 UND",
+        "Precio": " $ 2.911 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRS0009",
+        "CodigoBarras": "7709916044360",
+        "Descripcion": "MEGA NATILLA TRACIONAL X 300 CAJA X 20 UND",
+        "Precio": " $ 2.911 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JRS0010",
+        "CodigoBarras": "7709916044377",
+        "Descripcion": "MEGA BUÑUELOS X 300 GR CAJA X 20 UND",
+        "Precio": " $ 2.911 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JVN0001",
+        "CodigoBarras": "7700718564000",
+        "Descripcion": "GELATINA FRUT DAY X 250 CJ X  50",
+        "Precio": " $ 4.329 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JVN0002",
+        "CodigoBarras": "7700718565000",
+        "Descripcion": "GELATINA FRUT DAY X 500 CJ X 50",
+        "Precio": " $ 8.658 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JVN0003",
+        "CodigoBarras": "7707185646000",
+        "Descripcion": "GELATINA FRUT DAY X 1000 CJ  X 25",
+        "Precio": " $ 17.318 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JVN0004",
+        "CodigoBarras": "7707185642300",
+        "Descripcion": "GELATINA FRUT DAY X 105 GR 3 SABORES CJ X 32",
+        "Precio": " $ 3.171 "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0043",
+        "CodigoBarras": "",
+        "Descripcion": "AZUCAR PULVERIZADA X 500GR CJ X 25",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0098",
+        "CodigoBarras": "",
+        "Descripcion": "GALLETA VAINILLA X 94 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0099",
+        "CodigoBarras": "",
+        "Descripcion": "GALLETA FRESA X 94 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0100",
+        "CodigoBarras": "",
+        "Descripcion": "GALLETA CHOCOLATE X 94 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0101",
+        "CodigoBarras": "",
+        "Descripcion": "GALLETA AREQUIPE X 94 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0102",
+        "CodigoBarras": "",
+        "Descripcion": "MINITACO SIN AZUCAR FRESA X 80 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0104",
+        "CodigoBarras": "",
+        "Descripcion": "MINITACO SIN AZUCAR VAINILLA X 80 CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0105",
+        "CodigoBarras": "",
+        "Descripcion": "ALMENDRA FRANCESA SIN AZUCAR X 50 GR CJ X 43",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0050",
+        "CodigoBarras": "",
+        "Descripcion": "PIKIS CHOCO GOMITAS ACIDULCES X 125 GR CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0072",
+        "CodigoBarras": "",
+        "Descripcion": "ALMENDRA PIRAMIDE X 150 GR CJ X 28",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0073",
+        "CodigoBarras": "",
+        "Descripcion": "CARAMELO SURTIDO X 420 GR CJ X 24",
+        "Precio": " $ -   "
+    },
+    {
+        "Imagen": "",
+        "Codigo": "JCI0078",
+        "CodigoBarras": "",
+        "Descripcion": "CARAMELO DE CAFÉ ITALO X  25 UND CJ X 48",
+        "Precio": " $ -"
+    }
+]
